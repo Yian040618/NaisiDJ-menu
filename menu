@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "🍷 黑松露野菌汤",
+        "price": 68,
+        "desc": "深山黑松露融合三种野菌，慢火熬制，香气醇厚。",
+        "tags": ["主厨推荐", "人气王"],
+        "category": "appetizer",
+        "image": "https://picsum.photos/id/128/400/240",
+        "hot": true
+    },
+    {
+        "id": 2,
+        "name": "🔥 炙烤和牛舌",
+        "price": 88,
+        "desc": "厚切牛舌，炭火炙烤，外焦里嫩。",
+        "tags": ["招牌", "必点"],
+        "category": "signature",
+        "image": "https://picsum.photos/id/127/400/240",
+        "hot": true
+    },
+    {
+        "id": 3,
+        "name": "🥗 烟熏三文鱼沙拉",
+        "price": 52,
+        "desc": "挪威烟熏三文鱼，时令蔬菜，搭配柑橘油醋汁。",
+        "tags": ["轻食", "人气"],
+        "category": "appetizer",
+        "image": "https://picsum.photos/id/121/400/240",
+        "hot": false
+    }
+]
